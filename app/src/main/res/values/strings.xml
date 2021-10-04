@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherTest</string>
+    <string name="title_home">Today</string>
+    <string name="title_dashboard">Week</string>
+    <string name="title_notifications">Map</string>
+    <string name="search">Search</string>
+
+
+
+    <string name="temperature">%1$d °C</string>
+    <string name="celsius">%1$d °C</string>
+    <string name="humidity">%1$d %%</string>
+    <string name="wind">%1$.1f m\/s</string>
+    <string name="pressure">%d hPa</string>
+</resources>
